@@ -1,0 +1,29 @@
+{
+    "candidates": [
+        {
+            "name": "Inspirado",
+            "number": "01",
+            "image": "inspirado.png"
+        },
+        {
+            "name": "Tímido",
+            "number": "02",
+            "image": "timido.png"
+        },
+        {
+            "name": "Confiante",
+            "number": "03",
+            "image": "confiante.png"
+        },
+        {
+            "name": "Ansioso",
+            "number": "04",
+            "image": "ansioso.png"
+        },
+        {
+            "name": "Desconfiado",
+            "number": "05",
+            "image": "desconfiado.png"
+        }
+    ]
+}
