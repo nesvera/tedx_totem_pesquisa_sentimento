@@ -15,6 +15,6 @@ Usuário deveria conferir se o sentimento apresentado condiz com o que foi escol
 
 
 # Tecnologias empregadas:
-* python
-* tkinter
-* raspberry
+* Python3
+* Tkinter
+* Raspberry Pi 4
